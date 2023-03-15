@@ -44,4 +44,12 @@ style={{ backgroundColor: isMouseOver ? "black" : "white" }}
 instyle style dicchi plus using ternary operator and useState hooks i.e. isMouseOver
 
 */
+/*
+
+concepts used-
+1. event functions
+2.inline styling
+3. ternary operator
+4. useState hooks
+*/
 
