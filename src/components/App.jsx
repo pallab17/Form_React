@@ -30,5 +30,17 @@ function App() {
 }
 
 export default App;
+/* 
+we want our h1 to change when 
+submit button gets tipuni
+so we need to use useState hooks to change the state of the h1 
+and pass the 1st element of the useState array to the h1 content area
 
+
+*/
+/* 
+
+
+
+*/
 
