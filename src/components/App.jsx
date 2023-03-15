@@ -40,7 +40,8 @@ and pass the 1st element of the useState array to the h1 content area
 */
 /* 
 
-
+style={{ backgroundColor: isMouseOver ? "black" : "white" }}
+instyle style dicchi plus using ternary operator and useState hooks i.e. isMouseOver
 
 */
 
